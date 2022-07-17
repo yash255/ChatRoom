@@ -1,0 +1,8 @@
+#name-form{
+    height: 100vh;
+}
+
+body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
